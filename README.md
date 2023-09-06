@@ -2,7 +2,7 @@
 
 # Slides
 
-The [HTML Slides](https://quickskilling.github.io/polars_guide/) and [pdf slides]() for this skill are available.
+The [HTML Slides](https://quickskilling.github.io/polars_guide/) and [pdf slides](https://github.com/quickskilling/polars_guide/blob/slides/slides.pdf) for this skill are available.
 
 ## What is Polars?
 
