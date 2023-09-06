@@ -1,5 +1,9 @@
 # Taking the plunge with Polars
 
+# Slides
+
+The [HTML Slides](https://quickskilling.github.io/polars_guide/) and [pdf slides]() for this skill are available.
+
 ## What is Polars?
 
 > The goal of `Polars` is to provide a lightning fast `DataFrame` library that:
@@ -10,7 +14,7 @@
 > - Has an API that is consistent and predictable.
 > - Has a strict schema (data-types should be known before running the query).
 > 
-> Polars is written in Rust which gives it C/C++ performance and allows it to fully control performance critical parts in a query engine.
+> Polars is written in Rust which gives it C/C++ performance and allows it to fully control performance critical parts in the query engine.
 > 
 > As such `Polars` goes to great lengths to:
 > 
