@@ -53,9 +53,3 @@ The top benefit of Rust coding is its adept memory management. The benefits of p
 Jul 21, 2020](https://about.gitlab.com/blog/2020/07/21/rust-programming-language/)
 
 
-#### But it is a Python package?
-
-
-
-#### How does it use Apache Arrow?
-
