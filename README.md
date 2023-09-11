@@ -30,7 +30,7 @@ Their documenation compares Polars to some other Python data science tools
 
 > **Pandas**
 
-> A very versatile tool for small data. Read 10 things I hate about pandas written by the author himself. Polars has solved all those 10 things. Polars is a versatile tool for small and large data with a more predictable API, less ambiguous and stricter API.
+> A very versatile tool for small data. [Read 10 things I hate about pandas](https://wesmckinney.com/blog/apache-arrow-pandas-internals/) written by the author himself. Polars has solved all those 10 things. Polars is a versatile tool for small and large data with a more predictable API, less ambiguous and stricter API.
 
 > The API of pandas was designed for in memory data. This makes it a poor fit for performant analysis on large data (read anything that does not fit into RAM). Any tool that tries to distribute that API will likely have a suboptimal query plan compared to plans that follow from a declarative API like SQL or polars' API.
 
