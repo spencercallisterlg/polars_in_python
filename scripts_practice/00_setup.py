@@ -16,5 +16,3 @@ dat
 # %%
 fig = px.scatter(dat, x="first column", y="second column")
 fig
-
-# %%
